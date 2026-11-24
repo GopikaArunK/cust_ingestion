@@ -4,3 +4,6 @@ customer=[
   (103,"Balke",35000)]
 for cust in customer:
   print(cust)
+
+print("Customer data integration completed")
+print("new feature added successfully")
